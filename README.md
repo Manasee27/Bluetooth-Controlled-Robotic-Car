@@ -11,6 +11,8 @@ Here the whole system is divided into four principal blocks:
 
 
 Following is the circuit diagram-
+
+
 ![image](https://user-images.githubusercontent.com/76570343/115854639-13b28800-a448-11eb-8fd7-46328dcebd35.png)
 
 
